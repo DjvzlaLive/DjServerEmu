@@ -119,3 +119,36 @@ EJS_defaultControls = {
         2: {},
         3: {}
     }
+
+{
+    0: 'B',
+    1: 'Y',
+    2: 'SELECT',
+    3: 'START',
+    4: 'UP',
+    5: 'DOWN',
+    6: 'LEFT',
+    7: 'RIGHT',
+    8: 'A',
+    9: 'X',
+    10: 'L',
+    11: 'R',
+    12: 'L2',
+    13: 'R2',
+    14: 'L3',
+    15: 'R3',
+    19: 'L STICK UP',
+    18: 'L STICK DOWN',
+    17: 'L STICK LEFT',
+    16: 'L STICK RIGHT',
+    23: 'R STICK UP',
+    22: 'R STICK DOWN',
+    21: 'R STICK LEFT',
+    20: 'R STICK RIGHT',
+    24: 'QUICK SAVE STATE',
+    25: 'QUICK LOAD STATE',
+    26: 'CHANGE STATE SLOT',
+    27: 'FAST FORWARD',
+    28: 'SLOW MOTION',
+    29: 'REWIND'
+}
