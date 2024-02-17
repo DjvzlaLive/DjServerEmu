@@ -1,11 +1,11 @@
-EJS_defaultControls = {
+ defaultControllers = {
         0: {
             0: {
-                'value': '3',
+                'value': 'x',
                 'value2': 'BUTTON_1'
             },
             1: {
-                'value': '6',
+                'value': 's',
                 'value2': 'BUTTON_3'
             },
             2: {
@@ -17,35 +17,35 @@ EJS_defaultControls = {
                 'value2': 'START'
             },
             4: {
-                'value': 'w',
+                'value': 'up arrow',
                 'value2': 'DPAD_UP'
             },
             5: {
-                'value': 's',
+                'value': 'down arrow',
                 'value2': 'DPAD_DOWN'
             },
             6: {
-                'value': 'a',
+                'value': 'left arrow',
                 'value2': 'DPAD_LEFT'
             },
             7: {
-                'value': 'd',
+                'value': 'right arrow',
                 'value2': 'DPAD_RIGHT'
             },
             8: {
-                'value': '1',
+                'value': 'z',
                 'value2': 'BUTTON_2'
             },
             9: {
-                'value': '4',
+                'value': 'a',
                 'value2': 'BUTTON_4'
             },
             10: {
-                'value': '5',
+                'value': 'q',
                 'value2': 'RIGHT_TOP_SHOULDER'
             },
             11: {
-                'value': '2',
+                'value': 'e',
                 'value2': 'LEFT_TOP_SHOULDER'
             },
             12: {
@@ -105,50 +105,113 @@ EJS_defaultControls = {
             26: {
                 'value': '3'
             },
-            27: {
-                'value': 'add'
-            },
-            28: {
-                'value': 'space'
-            },
-            29: {
-                'value': 'subtract'
-            },
+            27: {},
+            28: {},
+            29: {},
         },
         1: {},
         2: {},
         3: {}
     }
-
-    {
-    0: 'B',
-    1: 'Y',
-    2: 'SELECT',
-    3: 'START',
-    4: 'UP',
-    5: 'DOWN',
-    6: 'LEFT',
-    7: 'RIGHT',
-    8: 'A',
-    9: 'X',
-    10: 'L',
-    11: 'R',
-    12: 'L2',
-    13: 'R2',
-    14: 'L3',
-    15: 'R3',
-    19: 'L STICK UP',
-    18: 'L STICK DOWN',
-    17: 'L STICK LEFT',
-    16: 'L STICK RIGHT',
-    23: 'R STICK UP',
-    22: 'R STICK DOWN',
-    21: 'R STICK LEFT',
-    20: 'R STICK RIGHT',
-    24: 'QUICK SAVE STATE',
-    25: 'QUICK LOAD STATE',
-    26: 'CHANGE STATE SLOT',
-    27: 'FAST FORWARD',
-    28: 'SLOW MOTION',
-    29: 'REWIND'
-}
+    keyMap = {
+        0: '',
+        8: 'backspace',
+        9: 'tab',
+        13: 'enter',
+        16: 'shift',
+        17: 'ctrl',
+        18: 'alt',
+        19: 'pause/break',
+        20: 'caps lock',
+        27: 'escape',
+        32: 'space',
+        33: 'page up',
+        34: 'page down',
+        35: 'end',
+        36: 'home',
+        37: 'left arrow',
+        38: 'up arrow',
+        39: 'right arrow',
+        40: 'down arrow',
+        45: 'insert',
+        46: 'delete',
+        48: '0',
+        49: '1',
+        50: '2',
+        51: '3',
+        52: '4',
+        53: '5',
+        54: '6',
+        55: '7',
+        56: '8',
+        57: '9',
+        65: 'a',
+        66: 'b',
+        67: 'c',
+        68: 'd',
+        69: 'e',
+        70: 'f',
+        71: 'g',
+        72: 'h',
+        73: 'i',
+        74: 'j',
+        75: 'k',
+        76: 'l',
+        77: 'm',
+        78: 'n',
+        79: 'o',
+        80: 'p',
+        81: 'q',
+        82: 'r',
+        83: 's',
+        84: 't',
+        85: 'u',
+        86: 'v',
+        87: 'w',
+        88: 'x',
+        89: 'y',
+        90: 'z',
+        91: 'left window key',
+        92: 'right window key',
+        93: 'select key',
+        96: 'numpad 0',
+        97: 'numpad 1',
+        98: 'numpad 2',
+        99: 'numpad 3',
+        100: 'numpad 4',
+        101: 'numpad 5',
+        102: 'numpad 6',
+        103: 'numpad 7',
+        104: 'numpad 8',
+        105: 'numpad 9',
+        106: 'multiply',
+        107: 'add',
+        109: 'subtract',
+        110: 'decimal point',
+        111: 'divide',
+        112: 'f1',
+        113: 'f2',
+        114: 'f3',
+        115: 'f4',
+        116: 'f5',
+        117: 'f6',
+        118: 'f7',
+        119: 'f8',
+        120: 'f9',
+        121: 'f10',
+        122: 'f11',
+        123: 'f12',
+        144: 'num lock',
+        145: 'scroll lock',
+        186: 'semi-colon',
+        187: 'equal sign',
+        188: 'comma',
+        189: 'dash',
+        190: 'period',
+        191: 'forward slash',
+        192: 'grave accent',
+        219: 'open bracket',
+        220: 'back slash',
+        221: 'close braket',
+        222: 'single quote'
+    }
