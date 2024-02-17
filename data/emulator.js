@@ -2608,12 +2608,12 @@ class EmulatorJS {
     defaultControllers = {
         0: {
             0: {
-                'value': 'x',
-                'value2': 'BUTTON_2'
+                'value': '1',
+                'value2': 'BUTTON_1'
             },
             1: {
-                'value': 's',
-                'value2': 'BUTTON_4'
+                'value': '4',
+                'value2': 'BUTTON_3'
             },
             2: {
                 'value': 'v',
@@ -2624,35 +2624,35 @@ class EmulatorJS {
                 'value2': 'START'
             },
             4: {
-                'value': 'up arrow',
+                'value': 'w',
                 'value2': 'DPAD_UP'
             },
             5: {
-                'value': 'down arrow',
+                'value': 's',
                 'value2': 'DPAD_DOWN'
             },
             6: {
-                'value': 'left arrow',
+                'value': 'a',
                 'value2': 'DPAD_LEFT'
             },
             7: {
-                'value': 'right arrow',
+                'value': 'd',
                 'value2': 'DPAD_RIGHT'
             },
             8: {
-                'value': 'z',
-                'value2': 'BUTTON_1'
+                'value': '3',
+                'value2': 'BUTTON_2'
             },
             9: {
-                'value': 'a',
-                'value2': 'BUTTON_3'
+                'value': '6',
+                'value2': 'BUTTON_4'
             },
             10: {
-                'value': 'q',
+                'value': '5',
                 'value2': 'LEFT_TOP_SHOULDER'
             },
             11: {
-                'value': 'e',
+                'value': '2',
                 'value2': 'RIGHT_TOP_SHOULDER'
             },
             12: {
