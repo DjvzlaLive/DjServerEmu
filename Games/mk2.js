@@ -2,11 +2,11 @@ EJS_defaultControls = {
         0: {
             0: {
                 'value': '3',
-                'value2': 'BUTTON_2'
+                'value2': 'BUTTON_1'
             },
             1: {
                 'value': '6',
-                'value2': 'BUTTON_4'
+                'value2': 'BUTTON_3'
             },
             2: {
                 'value': 'v',
@@ -34,19 +34,19 @@ EJS_defaultControls = {
             },
             8: {
                 'value': '1',
-                'value2': 'BUTTON_1'
+                'value2': 'BUTTON_2'
             },
             9: {
                 'value': '4',
-                'value2': 'BUTTON_3'
+                'value2': 'BUTTON_4'
             },
             10: {
                 'value': '5',
-                'value2': 'LEFT_TOP_SHOULDER'
+                'value2': 'RIGHT_TOP_SHOULDER'
             },
             11: {
                 'value': '2',
-                'value2': 'RIGHT_TOP_SHOULDER'
+                'value2': 'LEFT_TOP_SHOULDER'
             },
             12: {
                 'value': 'tab',
