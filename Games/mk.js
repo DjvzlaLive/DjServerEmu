@@ -1,12 +1,12 @@
 EJS_defaultControls = {
         0: {
-            0: {
+            8: {
                 'value': 'x',
-                'value2': 'BUTTON_1'
+                'value2': 'BUTTON_2'
             },
-            1: {
+            9: {
                 'value': 's',
-                'value2': 'BUTTON_3'
+                'value2': 'BUTTON_4'
             },
             2: {
                 'value': 'v',
@@ -32,21 +32,21 @@ EJS_defaultControls = {
                 'value': 'right arrow',
                 'value2': 'DPAD_RIGHT'
             },
-            8: {
+            0: {
                 'value': 'z',
-                'value2': 'BUTTON_2'
+                'value2': 'BUTTON_1'
             },
-            9: {
+            1: {
                 'value': 'a',
-                'value2': 'BUTTON_4'
-            },
-            10: {
-                'value': 'q',
-                'value2': 'RIGHT_TOP_SHOULDER'
+                'value2': 'BUTTON_3'
             },
             11: {
-                'value': 'e',
+                'value': 'q',
                 'value2': 'LEFT_TOP_SHOULDER'
+            },
+            10: {
+                'value': 'e',
+                'value2': 'RIGHT_TOP_SHOULDER'
             },
             12: {
                 'value': 'tab',
