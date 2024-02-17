@@ -1,12 +1,12 @@
 EJS_defaultControls = {
         0: {
             0: {
-                'value': 'Numpad4',
-                'value2': 'BUTTON_1'
+                'value': 'x',
+                'value2': 'BUTTON_2'
             },
             1: {
-                'value': 'Numpad7',
-                'value2': 'BUTTON_3'
+                'value': 's',
+                'value2': 'BUTTON_4'
             },
             2: {
                 'value': 'v',
@@ -17,36 +17,36 @@ EJS_defaultControls = {
                 'value2': 'START'
             },
             4: {
-                'value': 'w',
+                'value': 'up arrow',
                 'value2': 'DPAD_UP'
             },
             5: {
-                'value': 's',
+                'value': 'down arrow',
                 'value2': 'DPAD_DOWN'
             },
             6: {
-                'value': 'a',
+                'value': 'left arrow',
                 'value2': 'DPAD_LEFT'
             },
             7: {
-                'value': 'd',
+                'value': 'right arrow',
                 'value2': 'DPAD_RIGHT'
             },
             8: {
-                'value': 'Numpad6',
-                'value2': 'BUTTON_2'
+                'value': 'z',
+                'value2': 'BUTTON_1'
             },
             9: {
-                'value': 'Numpad9',
-                'value2': 'BUTTON_4'
+                'value': 'a',
+                'value2': 'BUTTON_3'
             },
             10: {
-                'value': 'Numpad8',
-                'value2': 'RIGHT_TOP_SHOULDER'
+                'value': 'q',
+                'value2': 'LEFT_TOP_SHOULDER'
             },
             11: {
-                'value': 'Numpad0',
-                'value2': 'LEFT_TOP_SHOULDER'
+                'value': 'e',
+                'value2': 'RIGHT_TOP_SHOULDER'
             },
             12: {
                 'value': 'tab',
@@ -121,18 +121,18 @@ EJS_defaultControls = {
     }
 
 {
-    0: 'B',
-    1: 'Y',
+    0: 'A',
+    1: 'X',
     2: 'SELECT',
     3: 'START',
     4: 'UP',
     5: 'DOWN',
     6: 'LEFT',
     7: 'RIGHT',
-    8: 'A',
-    9: 'X',
-    10: 'L',
-    11: 'R',
+    8: 'B',
+    9: 'Y',
+    10: 'R',
+    11: 'L',
     12: 'L2',
     13: 'R2',
     14: 'L3',
